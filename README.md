@@ -1,8 +1,9 @@
 # deploy2azure
 Deploy 2 Azure temp
 
+--DELETE--
 ![Deploy to Azure](https://aka.ms/deploytoazurebutton)
-
+--DELETE--
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FNyckosLeduc%2Fdeploy2azure%2Fmain%2Fdeploy.json)
 
