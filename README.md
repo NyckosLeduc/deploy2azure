@@ -1,5 +1,3 @@
-# deploy2azure
-
 ## Deploy 2 Azure
 
 ### Deploy Storage Standard_LRS
